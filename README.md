@@ -8,4 +8,4 @@ Cheers!
 :D
 
 <h1>Demo:</h1>
-https://user-images.githubusercontent.com/85807431/160253956-b2ed1242-d55f-4352-ab1b-1df6f498c40f.mp4
+[![Demo](https://user-images.githubusercontent.com/85807431/160253956-b2ed1242-d55f-4352-ab1b-1df6f498c40f.mp4)
