@@ -9,7 +9,5 @@ Cheers!
 
 <h1>Demo:</h1>
 
-
-
-![Demo](https://user-images.githubusercontent.com/85807431/160254189-8266e106-2aa4-48b5-91d8-918736028338.mp4)
+https://user-images.githubusercontent.com/85807431/160256351-1648ab57-f486-4e56-a17e-de8c116ebdfa.mov
 
