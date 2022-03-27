@@ -45,7 +45,7 @@ def play(dB):                                                                   
     cPF = {}
     wPF = {}
     arr = wrongPosFilter(corrPosFilter(absFilter(presFilter(dB, pF), aF), cPF), wPF)    #initialising the array 
-    for i in range(5):      
+    for i in range(6):      
         word = bestChoice(arr, evaluate(frequency(arr)))                                #taking the most probable word
         for item in word:                                                               #entering the word
             buttons[item].click()
